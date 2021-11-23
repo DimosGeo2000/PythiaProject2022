@@ -10,6 +10,7 @@ public class MainClass {
             int  second = 1540;
         showMyText();
         System.out.println("SumOfTwo is : " + sumOfTwo(first,second));
+        System.out.println("I just MADE i change");
     }
     
     public static void showMyText(){
